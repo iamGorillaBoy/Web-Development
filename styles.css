@@ -1,0 +1,100 @@
+
+.center-image {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.center-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: #5E7B72;
+    
+}
+
+ul {
+  background-image: url(textback.jpeg);
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    justify-content: center;
+    gap: 10px;
+    font-size: xx-large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    flex-wrap: wrap;
+    font-weight: bolder;
+}
+
+li {
+    display: inline-block;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+p {
+  background-image: url(listback.jpg);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    padding: 10px;
+}
+
+body {
+  background-image: url('treeback.jpg');
+    background-color: #B1D2DF;
+}
+
+main {
+  background-image: url('treeback.jpg');
+  background-repeat: repeat;
+  height: 100vh;
+}
+
+footer {
+  text-align: left;
+    color: blue;
+}
+.container {
+    display: flex;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 20px;
+  }
+  main {
+    text-align: center;
+  }
+  hr {
+    border-top: 10px solid #5E7B72;
+  }
+  #side-photos {
+    width: 300px;
+    height: 400px;
+  }
+  h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-style: unset;
+  }
+  p1 {
+    background-image: url(listback.jpg);
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  p2 {
+    background-image: url(textback.jpeg);
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkolivegreen;
+  }
+  .top-list {
+    background-image: url('background.jpeg');
+  }
