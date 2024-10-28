@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridgertons</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+     <div class="center-image">
+            <img src="header.jpg" alt="top logo">
+        </div>
+<body>
+    
+
+    <main> 
+        <hr>
+        <nav>
+            <ul id="top-list">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="characters.html">Characters</a></li>
+                <li><a href="family.html">Family Tree</a></li> 
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="cast.html">Cast</a></li>
+            </ul>
+        </nav>
+        <br>
+        <p2><u><b>The Bridgerton Family Tree</b></u></p2>
+        <br>
+        <img src="familytree.jpg" alt="family-tree">
+        <br>
+        <p2><u><b>The Featherington Family Tree</b></u></p2>
+        <br>
+        <img src="featherfamilytree.jpg" alt="feather-family-tree">
+        <div class="background-image"></div>
+        </main>
+
+    <footer>
+        &copy; 2023 Bridgerton
+    </footer>
+</body>
+</html>
