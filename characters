@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bridgertons</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+     <div class="center-image">
+            <img src="header.jpg" alt="top logo">
+        </div>
+<body>
+    
+
+    <main> 
+        <hr>
+        <nav>
+            <ul id="top-list">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="characters.html">Characters</a></li>
+                <li><a href="family.html">Family Tree</a></li> 
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="cast.html">Cast</a></li>
+            </ul>
+        </nav>
+        <br>
+    <div class="container">
+            <div class="column left">
+                <h2><u>Anthony Bridgerton</u></h2>
+
+                <p>
+                    Anthony Bridgerton is the eldest Bridgerton son and the current Viscount Bridgerton. Upon the death of his father Edmund, he became the 9th Viscount Bridgerton and 
+                    the head of the family. Anthony, the firstborn son and child of Viscount Edmund Bridgerton and his wife Violet, grew up the heir to his father. Seven more siblings followed after him.
+                    In 1803, he watched his father get stung by a bee and die seconds afterward. He also watched his pregnant mother fall to pieces as a result. Upon his father's death, 
+                    Anthony became the new Viscount. When his mother went into labor, the doctors pressured him to choose for them to save either Violet or the baby. Even after both 
+                    mother and child survived the birth, Anthony watched his mother despair over losing her husband.
+                    He attended Oxford where he met and befriended Simon Basset and Thomas Dorset.
+                </p>
+                <br><br><br>
+
+                <h2><u>Benedict Bridgerton</u></h2>
+
+                <p>
+                    Benedict Bridgerton is the second Bridgerton child and son. Benedict accompanied his family to his sister's presentation to the queen at the start of the 1813 social season. 
+                    He showed little interest in the societal goings-on. When his sister, Eloise, learned from her friend, Penelope, that one of the Featheringtons' maids was pregnant without 
+                    being married, she became concerned it could happen to her, as she was unaware of how women become pregnant. When her mother refused to tell her, Eloise sat between Colin 
+                    and Benedict, whom she assumed knew. Colin started to tell her, using farm animals as an example, but Benedict stopped him with a slap to his head.
+                </p>
+
+                <br><br><br><br>
+
+                <h2><u>Colin Bridgerton</u></h2>
+
+                <p>
+                    Colin Bridgerton is the third Bridgerton child and son. At the start of the 1813 social season, Colin attended social events with his family, 
+                    including the newly-debuted Daphne. At the Danbury ball, Colin noticed Marina, whom he found very attractive, though he didn't know who she was. Despite this, 
+                    he went to dance with her. The next day, he called on Marina at the Featherington house, though he was among many. At another event, Colin asked Penelope about 
+                    Marina and learned she was ill. In her absence, he danced with Penelope after Cressida Cowper tried to interject and spilled her drink on her to get her out of the way.
+                </p>
+                <br>
+                <h2><u>Daphne Bridgerton</u></h2>
+
+                <p>
+                    Daphne Basset (née Bridgerton) is the fourth Bridgerton child and eldest daughter.At the start of the 1813 social season, Daphne made her debut in front of the queen. 
+                    Queen Charlotte looked at her and declared her flawless, 
+                    instantly making her the most promising young lady in the circuit. This was also supported by Lady Whistledown's Society Papers, a leaflet being 
+                    written by an anonymous society lady and distributed throughout town, which declared her the season's Incomparable.Daphne attended social events, 
+                    meeting potential suitors. She quickly grew frustrated at her brother, Anthony, for dismissing all of her options. After escaping a conversation with Nigel Berbrooke, 
+                    she ran into Simon Basset, who believed she was faking when she said she didn't know who he was. Then her brother appeared and recognized Simon as an old schoolmate, 
+                    now the Duke of Hastings.
+                </p>
+                <h2><u>Eloise Bridgerton</u></h2>
+
+                <p>
+                    Eloise Bridgerton is the fifth Bridgerton child and second daughter.
+                    At the start of the 1813 social season, Eloise accompanied her family as her eldest sister, Daphne, made her social debut. Eloise herself had been allowed another 
+                    year before her debut. Eloise took no pleasure in attending balls and other social events, preferring instead to focus on her studies. When Penelope told Eloise 
+                    that she knew an unmarried woman who was pregnant, though she pretended it was a maid, Eloise became concerned it could happen to her, as she was unaware of exactly 
+                    how women became pregnant. She went to her family and asked her mother, though her mother refused to tell her, so she went to her brothers. Colin started to tell her, 
+                    using farm animals as an example, but Benedict stopped him with a smack to his head. She then went to Penelope to find more information about the maid and was horrified 
+                    to learn that the maid wanted to run away and marry her lover.
+                </p>
+                <h2><u>Francesca Bridgerton</u></h2>
+
+                <p>
+                    Francesca Stirling (née Bridgerton) is the sixth Bridgerton child and third daughter.
+                    In 1813, on the day of Daphne's societal debut, Francesca accompanied the rest of her family so that Daphne could be presented to the queen. Shortly after this debut, 
+                    Francesca left London to practice pianoforte with their Aunt Winnie. After being away for nearly the entire season, Francesca returned to London. She eagerly showed 
+                    Daphne what she had learned, playing piano while Colin sang and the others danced. At the start of the 1814 social season, Francesca waited, along with the rest of her 
+                    siblings and mother, for Eloise to get ready for her presentation. When she finally emerged, she warned them all not to say anything.
+                </p>
+<br><br><br>
+                <h2><u>Gregory Bridgerton</u></h2>
+
+                <p>
+                    Gregory Bridgerton is the seventh Bridgerton child and youngest son. Gregory was present when his family had Simon Basset over to dine with them. At the dinner, 
+                    he flung his peas at Hyacinth, annoying her.
+                    Gregory attended a picnic with his family, where he played while his older siblings socialized.
+                    While their family discussed Daphne's social prospects, Hyacinth and Gregory played together on the sitting room floor.                 
+                    When Daphne came home from meeting with the queen and the prince, she passed Gregory, who was playing marbles.
+                </p>
+<br><br><br><br><br>
+                <h2><u>Hyacinth Bridgerton</u></h2>
+
+                <p>
+                    Hyacinth Bridgerton is the youngest Bridgerton child. Hyacinth was excited for the start of the new social season, especially since it was Daphne's debut. 
+                    She happily accompanied her family to the palace so Daphne could be presented in front of the queen and took interest in Daphne's courting. 
+                    Hyacinth was present and very delighted when her mother received a letter from the queen inviting her to a private tea. While their family discussed Daphne's social prospects, 
+                    Hyacinth and Gregory played together on the sitting room floor.
+                </p>
+
+                <br><br><br><br>
+
+                <h2><u>Violet Bridgerton</u></h2>
+
+                <p>
+                    Violet Bridgerton (née Ledger) is the Dowager Viscountess Bridgerton. She is the widow of Edmund Bridgerton, and the mother of the eight Bridgerton siblings. 
+                    Violet was born to Lord and Lady Ledger. She had a somewhat difficult relationship with her mother but had a good relationship with her father who fondly called 
+                    her 'brains' and would make her birthday hats for her birthday. While preparations were underway for the coronation of King George III and Queen Charlotte, 
+                    Violet discussed her excitement with her governess as she was having her hair braided. Later, the two went on a walk outside with Violet's horse where they discussed 
+                    the king's new marriage and her mother's thoughts on the matter, with her governess telling her to not discuss her mother's thoughts with anyone outside of the family.
+                </p>
+
+                <br>
+
+                <h2><u>Simon Basset</u></h2>
+
+                <p>
+                    Simon Basset is the Duke of Hastings and husband of Daphne Basset, with whom he has two children. As Simon was born, his father waited outside, 
+                    only concerned with whether or not he would have an heir. When his mother cried out, his father ran inside the room, where Simon was then born. 
+                    After learning it was a son, he took Simon out to show him off while Sarah died of a hemorrhage. When Simon was four and still not speaking clearly due to a stutter, 
+                    the Duke ordered Simon out of his sight, saying Simon was dead to him. Simon continued to be schooled by nursemaids, though his father refused to see him. When he was six, 
+                    Lady Danbury came to visit and was surprised to find him alive, as his father had told her Simon was dead.
+                </p>
+
+                <br>
+                
+                <h2><u>Kate Sharma</u></h2>
+
+                <p>
+                    Kate Bridgerton (née Sharma) is the Viscountess Bridgerton by virtue of her marriage to Anthony. She is the older half-sister of Edwina Sharma and the stepdaughter of Mary Sharma.
+                    Her own parents are dead. Despite Kate being her father's daughter from his first marriage, Lady Mary, his second wife, treated Kate as if she were her own. 
+                    She had lived her whole life in India before coming to England to marry off her sister. Kate and Lady Mary raised Edwina together to become an exquisite lady. 
+                    When they started to run low on funds, they used the last of their money on their trip to England.
+                </p>
+                <br><br><br><br>
+                <h2><u>Penelope Featherington</u></h2>
+                <p>
+                    Penelope Bridgerton (née Featherington) aka The Lady Whistledown is the youngest Featherington child and wife of Colin Bridgerton. At the start of the 1813 social season, 
+                    Penelope was presented to society, over her objections that she'd rather wait another year like her close friend, Eloise Bridgerton. Her mother insisted 
+                    she be presented and Penelope was presented to the queen along with her two older sisters. Though she was disinterested in entering society, Penelope was 
+                    intrigued by Colin Bridgerton. When her cousin Marina Thompson attracted many callers, including Colin, Penelope was happy to be entertained by them, 
+                    listening as they recited poetry for her and playing with the dog one brought for her.
+                </p>
+                <br><br>
+                <h2><u>Queen Charlotte</u></h2>
+
+                <p>
+                    Queen Charlotte is queen consort of the United Kingdom of Great Britain and Ireland as the wife of King George III. Known for her commanding and dignified nature, she is the leading 
+                    and most powerful figure of the ton.Queen Charlotte is from a small town named Mirow in Northern Germany. After her parents died, she was raised by her brother Duke Adolphus. 
+                    Against Charlotte's wishes, Adolphus signed a betrothal contract to marry Charlotte off to the King George III of England. They traveled together to London for the wedding. 
+                    Charlotte tried to get out of it, but he said he'd already signed the contract, so she had to marry him as he was unable to say no to the king of England. When they arrived, the king's mother, 
+                    Princess Augusta, examined Charlotte and told her her job was to make as many babies as possible for King George. In the meantime, she sent Charlotte to have her dress fitted, 
+                    ignoring Charlotte saying that she'd brought her own dress.
+                </p>
+                <br><br>
+                <h2><u>Agatha Danbury</u></h2>
+
+                <p>
+                    Agatha Danbury (née Soma Anderson) is a senior matron who is considered one of the most powerful women in London high society. Born Soma Anderson in Sierra Leone, she was betrothed at age 
+                    three by her parents to Lord Herman Danbury, a man much older than her. She was taught to like all of his favorite things and perform all of his favorite songs on the piano. She married him 
+                    at a considerably young age. Over the course of the union, she would bear him four children, although she would come to loathe and resent her husband. After an uncomfortable encounter with her husband, 
+                    he told her he had a surprise for her, but didn't tell her what it was. As soon as he fell asleep, she got up and took a bath. She complained to her maid, Coral, that she hadn't gotten any warning that 
+                    he would be coming to her. Coral said she didn't get any warning because Coral hadn't gotten any from the butler. 
+                </p>
+                <br><br>
+                <h2><u>Cressida Cowper</u></h2>
+
+                <p>
+                    Cressida Cowper is an ill-mannered debutante competing for the affections of the most eligible suitors. Cressida Cowper is a young lady who debuted in the 1813 social season with her mother. 
+                    At these events, her mother talked her up to potential suitors. At one event, she flirted with Colin, spilling her drink on Penelope to get her out of the way. She then invited Colin for a dance, 
+                    but Colin rejected her in favor of Penelope. Soon after, at a picnic, Cressida gossiped about Daphne while walking within Daphne's hearing range.Cressida was among those delighted when word came 
+                    that Prince Friedrich of Prussia was coming to London in search of a wife. When he came to his first social event, Cressida immediately approached him to draw his attention to her, but the queen pulled 
+                    Friedrich away to introduce him to Daphne, making Cressida jealous.
+                </p>
+                <footer>
+                    &copy; 2023 Bridgerton
+                </footer>
+                
+                
+        </div>
+        <div class="column right">
+            <br><br>
+            <img src="anthony.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Anthony Bridgerton</b></p1>
+            <br><br><br><br><br><br>
+            <img src="benedict.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Benedict Bridgerton</b></p1>
+            <br><br><br><br><br>
+            <img src="colin.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Colin Bridgerton</b></p1>
+            <br><br><br>
+            <img src="daphne.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Daphne Bridgerton</b></p1>
+            <br><br><br>
+            <img src="eloise.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Eloise Bridgerton</b></p1>
+            <br><br><br><br><br>
+            <img src="francesca.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Francesca Bridgerton</b></p1>
+            <br><br><br>
+            <img src="gregory.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Gregory Bridgerton</b></p1>
+            <br><br><br>
+            <img src="hyacinth.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Hyacinth Bridgerton</b></p1>
+            <br><br><br><br>
+            <img src="violet.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Violet Bridgerton</b></p1>
+            <br><br><br><br>
+            <img src="simon.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Simon Basset</b></p1>
+            <br><br><br>
+            <img src="kate.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Kate Sharma</b></p1>
+            <br><br><br>
+            <img src="penelope.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Penelope Featherington</b></p1>
+            <br><br><br><br><br><br>
+            <img src="charlotte.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Queen Charlotte</b></p1>
+            <br><br><br><br><br><br><br>
+            <img src="danbury.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Agatha Danbury</b></p1>
+            <br><br><br><br><br><br><br>
+            <img src="cressida.jpeg" id="side-photos" alt="side column photo">
+            <br>
+            <p1><b>Cressida Cowper</b></p1>
+        </div>
+    </div>
+        </main>
+    </body>
+    
+        
+    
+
+</html>
