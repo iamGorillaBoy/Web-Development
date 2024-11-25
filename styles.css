@@ -118,7 +118,7 @@ footer {
   }
 
 /* This is style section for heading 2 */
-  h2 {
+  .header {
     font-style: unset;
     max-width: 100%;
     font-size: 40px;
@@ -129,7 +129,7 @@ footer {
   }
   /* This is style section for heading 2 when the screen is smaller */
   @media (max-width: 580px) {
-    h2{
+    .header{
       font-size: 10px;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     }
@@ -280,7 +280,7 @@ footer {
   .dark-mode .column-left {
     background-image: url(darkmode.jpeg);
   }
-  .dark-mode h2 {
+  .dark-mode .header {
     color: lightskyblue;
   }
   .dark-mode footer {
