@@ -109,6 +109,7 @@ footer {
     margin: 15px;
     aspect-ratio: 10/14;
     width: clamp(15px, 30%, 300px);
+    display: block;
   }
 /* This is style section for the characters' photos when hovered over */
   .side-photos:hover {
