@@ -106,7 +106,7 @@ footer {
 /* This is style section for the characters' photos */
   .side-photos {
     max-width: 100%;
-    margin: 15px;
+    margin: 15px auto;
     aspect-ratio: 10/14;
     width: clamp(15px, 30%, 300px);
     display: block;
