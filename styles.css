@@ -124,6 +124,7 @@ footer {
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;
+    text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
   /* This is style section for heading 2 when the screen is smaller */
