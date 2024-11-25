@@ -6,6 +6,7 @@
   align-items: center;
 }
 
+/* This is style section for navmenu */
 a {
   max-width: 100%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -13,12 +14,14 @@ a {
     text-decoration: none;
 }
 
+/* This is style section for navmenu after hovering over it */
 a:hover {
   font-size: 40px;
   color: gold;
   transition: 0.2s all linear;
 }
 
+/* This is style section for unordered list */
 ul {
     max-width: 100%;
     background-image: url(textback.jpeg);
@@ -33,6 +36,8 @@ ul {
     flex-wrap: wrap;
     font-weight: bold;
 }
+
+/* This is style section for navmenu for mobile devices */
 @media (max-width: 480px) {
   ul {
       font-size: small;
@@ -41,6 +46,8 @@ ul {
       grid-template-columns: repeat(auto-fit, minmax(0px, 1fr));
   }
 }
+
+/* This is style section for list */
 li {
     max-width: 100%;
     display: inline-block;
@@ -51,35 +58,36 @@ li {
     margin: 5px;
 }
 
+/* This is style section for body */
 body {
     background-image: url(listback.jpeg);
 }
 
-main {
-  background-repeat: repeat;
-  height: 100vh;
-}
-
+/* This is style section for footer */
 footer {
   text-align: left;
     color: blue;
 }
+/* This is style section for footer for mobile devices */
 @media (max-width: 480px) {
   footer {
     font-size: 5px;
   }
 }
 
+/* This is style section for container section */
 .container {
     display: flex;
   }
-  
+
+/* This is style section for columns */
   .column {
     max-width: 100%;
     flex: 1;
     padding: 20px;
   }
 
+/* This is style section for the right column */
   .column-right {
     width: clamp(50px, 200%, 680px);
     height: clamp(120px, 200%, 600px);
@@ -90,25 +98,25 @@ footer {
     max-height: fit-content;
   }
 
-  main {
-    text-align: center;
-  }
-
+/* This is style section for the horizontal divider bar */
   hr {
     border-top: 10px solid #5E7B72;
   }
 
+/* This is style section for the characters' photos */
   .side-photos {
     max-width: 100%;
     margin: 15px;
     aspect-ratio: 10/14;
     width: clamp(15px, 30%, 300px);
   }
+/* This is style section for the characters' photos when hovered over */
   .side-photos:hover {
     transform: scale(1.2);
     transition: transform 0.3s ease-in-out;
   }
 
+/* This is style section for heading 2 */
   h2 {
     font-style: unset;
     max-width: 100%;
@@ -117,7 +125,7 @@ footer {
     color: black;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  
+  /* This is style section for heading 2 when the screen is smaller */
   @media (max-width: 580px) {
     h2{
       font-size: 10px;
@@ -125,6 +133,7 @@ footer {
     }
   }
 
+/* This is style section for navmenu */
   .navmenu {
     max-width: 100%;
     color: rebeccapurple;
@@ -132,7 +141,7 @@ footer {
     padding: 0.5rem 0;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-
+/* This is style section for navmenu */
   .navmenu::before {
     max-width: 100%;
     content: "";
@@ -144,38 +153,49 @@ footer {
     width: 100%;
     background-color: gold;
   }
-
+/* This is style section for navmenu after hovered over */
   .navmenu:hover::before {
     transform: translateX(-50%) scale(1);
     height: 5px;
   }
 
+/* This is style section for familytree photo */
   .bfamily {
       max-width: 100%;
   }
+
+/* This is style section for photos in gallery page */
   .gallery-photos {
     width: clamp(50px, 15%, 400px); 
     aspect-ratio: 16/10;
     margin: 20px;
   }
+/* This is style section for photos in gallery page after being hovered over */
   .gallery-photos:hover {
     transform: scale(1.2);
     transition: transform 0.3s ease-in-out;
   }
+/* This is style section for photos in gallery page for smaller screened devices */
   @media (max-width: 480px) {
     .gallery-photos {
       margin: 5px;
     }
   }
+
+/* This is style section for the top photo */
   .top-photo {
     display: flex;
     justify-content: center;
     align-items: center;
     width: clamp(200px, 90%, 1200px);
   }
+
+/* This is style section for cast photo in cast page */
   .castlist {
     width: clamp(100px, 50%, 500px);
   }
+
+/* This is style section for navigation */
   nav {
     max-width: 100%;
     position: sticky;
@@ -184,6 +204,8 @@ footer {
     left: 0;
     transition: top 0.3s ease-in-out;
   }
+
+/* This is style section for navbar */
   .navbar {
     width: clamp(10px, 50%, 100px);
     max-width: 100%;
@@ -193,10 +215,13 @@ footer {
     left: 0;
     transition: top 0.3s ease-in-out;
   }
-  
+
+  /* This is style section for navbar so it stay floated when scrolled down */
   .navbar.scrolled {
     top: -3px;
   }
+
+/* This is style section for lady whistledown's paper in the homepage */
   .ladywhistledown {
     width: clamp(50px, 90%, 4000px);
     display: flex;
@@ -205,12 +230,15 @@ footer {
     margin-left: 40px;
     max-width: 100%;
   }
-  
+
+/* This is style section for content on the left side of homepage */
   .column-left {
     background-image: url(textback.jpeg);
     font-size: 16px;
     max-width: 50%;
   }
+
+/* This is style section for paragraphs */
   p {
     text-align: left;
     font-size: 1.2em;
@@ -218,20 +246,25 @@ footer {
     font-size: x-large;
     padding: 10px;
 }
+/* This is style section for paragraphs in tablet view */
 @media (max-width: 768px) {
   p {
       font-size: 1em;
       line-height: 1.5; 
   }
 }
+/* This is style section for intro */
   .intro {
     margin: 20px;
   }
+/* This is style section for intro  for phone screens */
 @media (max-width: 480px) {
   .intro {
       font-size: x-small;
   }
 }
+
+/* This is style section for darkmode */
 .dark-mode {
   background-image: url(darkmode.jpeg);
   color: white;
@@ -258,6 +291,8 @@ footer {
     background-color: #fff;
     color: black;
   }
+
+/* This is style section for theme changing button */
 .themecolor {
   position: fixed;
   bottom: 20px;
